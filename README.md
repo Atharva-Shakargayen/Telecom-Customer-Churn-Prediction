@@ -45,3 +45,4 @@ From the exploratory data analysis, several insights have been derived:
 - The most important features for predicting customer churn, as determined by feature importance, include tenure, contract type, monthly charges, and total charges.
 
 Machine learning models, including Decision Tree Classifier, Random Forest Classifier, and K Nearest Neighbors Classifier, were employed in this project. The Random Forest Classifier demonstrated the highest accuracy of 82%, along with a high F1 Score and the lowest mean squared error and mean absolute error. Therefore, the Random Forest Classifier is recommended as a suitable model for predicting customer churn in this telecom company's dataset.
+
